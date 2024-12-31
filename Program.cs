@@ -1,8 +1,4 @@
 ﻿using System.Data;
-using System.Numerics;
-using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-using System.Windows.Markup;
 
 class Program
 {
